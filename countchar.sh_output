@@ -1,0 +1,6 @@
+dkalita@in-debbld-49:~$ bash countchar.sh  countchar.sh testfile testfile2
+Number of files: 3
+Occurance of "e" in file "countchar.sh":18
+Occurance of "e" in file "testfile":3
+Occurance of "e" in file "testfile2":1
+dkalita@in-debbld-49:~$
